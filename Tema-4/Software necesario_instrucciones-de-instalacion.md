@@ -9,13 +9,13 @@ En esta página, aparecerá un primer bloque titulado “Download and install R�
 Además, tienes un tutorial sobre cómo instalar R en Windows paso a paso, preparado por el profesor José Manuel Fradejas, aquí: https://www.youtube.com/watch?v=Gcgm6EJbCV8 
 Si todo ha ido bien, tendrás o en el Escritorio (Windows) o en el Launchpad (Mac) un acceso directo para R (es posible que en Windows haya dos, uno para R de 32 bits y otro para R de 64 bits).
  
-## R Studio
+## R Studio (versión gratuita)
 R Studio es un entorno de desarrollo integrado que hará más fácil el trabajo en R y te permitirá guardar fácilmente tus propios scripts, ver las variables que tienes operativas o consultar cómodamente la ayuda, entre otros.
 La versión gratuita es "R Studio Desktop", y puedes descargarla de aquí: https://www.rstudio.com/products/rstudio/download/
 Fíjate en que la versión gratuita es la que aparece a la izquierda. Al pinchar sobre “Download”, la página avanzará hasta la sección “Installers for Supported Platforms”. Pincha aquí el instalador adecuado a tu sistema operativo (Windows, Mac o alguno de los de Linux).
 Si todo ha ido bien, además del acceso directo a R, tendrás en el Escritorio (Windows) o en el Launchpad (Mac) otro acceso directo para R Studio.
  
-## Stylo:
+## Stylo (gratuito):
 Para instalar el paquete stylo, arranca R Studio y en la consola escribe la siguiente línea:
 install.packages(“stylo”)
  
