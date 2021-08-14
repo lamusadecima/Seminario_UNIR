@@ -15,7 +15,11 @@ setwd("Desktop/novela")
 setwd("C:/novela")
 
 # Si las líneas de arriba te dan error, otra opción para establecer el 
-#directorio de trabajo es hacer clic en Session > Set working directory
+# directorio de trabajo es hacer clic en Session > Set working directory
+
+# Si todavía no has instalado stylo, ejecuta esta línea:
+
+install.packages("stylo")
 
 # A continuación, llamamos al paquete stylo
 
