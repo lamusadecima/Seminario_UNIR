@@ -16,7 +16,11 @@ Fíjate en que la versión gratuita es la que aparece a la izquierda. Al pinchar
 Si todo ha ido bien, además del acceso directo a R, tendrás en el Escritorio (Windows) o en el Launchpad (Mac) otro acceso directo para R Studio.
  
 ## Stylo:
-Para ganar tiempo, instala ya el paquete stylo. Para ello, arranca R Studio y en la consola escribe la siguiente línea:
+Para instalar el paquete stylo, arranca R Studio y en la consola escribe la siguiente línea:
 install.packages(“stylo”)
  
 ¡Ojo! Si usas Mac, antes de instalar stylo, debes descargarte XQuartz. Para ello, ve a https://www.xquartz.org/ , descarga e instala el programa “XQuartz-2-7-11-dmg”. Una vez instalado, vuelve a arrancar R Studio para que lo reconozca y pasa a instalar stylo mediante la línea de código anterior.
+
+## Gephi (gratuito): 
+Descárgalo de aquí: https://gephi.org/ . Para ello, pincha en “Download FREE Gephi 0.9.2”. Te aparecerá otra ventana y un botón con la versión de tu sistema operativo. Pincha y comienza la descarga.
+¡Ojo! Para que Gephi funcione necesitas tener actualizado Java. Si te aparece algún mensaje de error relacionado con la versión de Java, debes ir a https://www.java.com/es/download/ , descargar la versión gratuita de Java (botón rojo) y ejecutarla en tu ordenador.
