@@ -18,7 +18,6 @@ setwd("C:/novela")
 # directorio de trabajo es hacer clic en Session > Set working directory
 
 # Si todavía no has instalado stylo, ejecuta esta línea:
-
 install.packages("stylo")
 
 # A continuación, llamamos al paquete stylo
